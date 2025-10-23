@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blogg
+title: About mee
 ---
 Paty leyva
----
+--
+
